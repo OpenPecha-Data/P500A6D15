@@ -1,0 +1,31 @@
+id: P500A6D15
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG1665
+  instance_id: http://purl.bdrc.io/resource/IE1KG1665
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྩ་འགྲེལ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - baoxing lun xiangjie
+  author: http://purl.bdrc.io/resource/P431
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    fb3f3e263c2d4559b5fe291a8ddd0251:
+      title: པོད ༡་ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྩ་འགྲེལ
+      volume_number: 1
+      base_file: UT1KG1665_I1KG1842_0000.txt
+      reference: http://purl.bdrc.io/resource/VL598A21A1F96A0316
+      image_group: I1KG1842
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG1665
+  - http://purl.bdrc.io/resource/W1KG1665
+  ocr_software: Namsel
+created_at: '2021-12-22T10:36:05.957575'
+last_modified_at: '2021-12-22T10:36:05.957583'
